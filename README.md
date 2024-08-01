@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💙
-Meu nome é yasmin archioli
+Meu nome é Yasmin Archioli
 
 > Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
@@ -9,4 +9,5 @@ Você pode entrar em contato comigo 📫
 ![yasminarchiol@gmail.com](link)
 
 @yukkzk
-###ola me chamo **fulano**
+
+
